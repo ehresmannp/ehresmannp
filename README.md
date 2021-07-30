@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @ehresmannp
+- 👋 Hi, I’m Paige
 - 👀 I’m interested in macroeconomics research
-- 🌱 I’m currently learning STATA and how to work with large data sets
-- 💞️ I’m looking to collaborate on ... unsure at the moment
-- 📫 How to reach me ... ehresmannp@carleton.edu
+- 🌱 I’m currently learning STATA
+- 💞️ I’m looking to collaborate on professional economics research as an RA
+- 📫 How to reach me: ehresmannp@carleton.edu
 
 <!---
 ehresmannp/ehresmannp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
