@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paige
 - 👀 I’m interested in macroeconomics research
-- 🌱 I’m currently learning STATA
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on professional economics research as an RA
 - 📫 How to reach me: ehresmannp@carleton.edu
 
